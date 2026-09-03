@@ -1,6 +1,6 @@
 ---
 name: annotate-code-flow
-description: Annotate and explain source code so its execution flow, data movement, state changes, and design logic are easy to follow. #Use when a user asks to add educational comments, explain code inline, trace how code works, or make unfamiliar code easier to learn #without changing its behavior.
+description: Annotate and explain source code so its execution flow, data movement, state changes, and design logic are easy to follow. ##Use when a user asks to add educational comments, explain code inline, trace how code works, or make unfamiliar code easier to learn #without changing its behavior.
 ---
 
 # Annotate Code Flow

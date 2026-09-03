@@ -1,2 +1,2 @@
-print("hello kse")
-print("test2")
+print("hello KSE")
+print("Ready to learn new things! ")
